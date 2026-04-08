@@ -174,4 +174,4 @@ bash scripts/sanitize-check.sh
 
 ## 그 외
 
-문제가 위 19개에 없으면 https://github.com/shdsjh123/claude-code-blog-builder/issues 에 신고해주세요.
+문제가 위 19개에 없으면 https://github.com/shdsjh123-cpu/claude-code-blog-builder/issues 에 신고해주세요.
